@@ -1,16 +1,34 @@
-## Hi there 👋
+# Okay Beydanol
 
-<!--
-**okaybeydanol/okaybeydanol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+JavaScript/TypeScript and React Native focused open-source developer building reusable starter templates, developer tooling, and self-hosted AI infrastructure.
 
-Here are some ideas to get you started:
+## Open Source
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [sensors-clean](https://github.com/okaybeydanol/sensors-clean)
+* [hf-model-pull](https://github.com/okaybeydanol/hf-model-pull)
+* [react-native-starter](https://github.com/okaybeydanol/react-native-starter)
+* [express-starter](https://github.com/okaybeydanol/express-starter)
+
+## Focus Areas
+
+* production-ready starter templates
+* modular application architecture
+* developer experience
+* self-hosted voice AI systems
+* reusable open-source foundations
+
+## Current Build
+
+I’m actively building a fully local, modular voice AI system with: (Fresh Start)
+
+* LiveKit
+* local LLM
+* local STT / TTS
+* agent orchestration
+* memory and RAG with Qdrant
+* persona / handoff structure
+* web tools and telephony support
+
+## Goal
+
+My goal is to reduce setup time, encourage maintainable architecture, and create practical open-source foundations that other developers can build on.
